@@ -20,7 +20,9 @@ MeetX is a feature-rich video conferencing application developed using Flutter, 
 
 ## Screenshots
 
-| ![Image 1 description](path/to/image1.jpg) | ![Image 2 description](path/to/image2.jpg) | ![Image 3 description](path/to/image3.jpg) | ![Image 4 description](path/to/image4.jpg) |
+| ![Login Screen](/screenshots/flutter_01.png) | ![Google Sign In](/screenshots/flutter_02.png) | ![HomePage](/screenshots/flutter_03.png) | ![Meeting History Page](/screenshots/flutter_04.png) |
+| ![Create Meeting](/screenshots/flutter_06.png) | ![Join Meeting](/screenshots/flutter_07.png) | ![Meeting](/screenshots/flutter_08.png) | ![Meeting](/screenshots/flutter_09.png) |
+
 
 
 ## Getting Started
