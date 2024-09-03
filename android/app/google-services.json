@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "28926293784",
+    "project_id": "meetx-72d1d",
+    "storage_bucket": "meetx-72d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28926293784:android:ea5a67b0873e3af905d06d",
+        "android_client_info": {
+          "package_name": "com.vortex.meetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28926293784-5cn97helu1gqgsr2fjoqfrs4n1kj2jkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbGO268I7fmImvwunVZXJSZq8XMlJK2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28926293784-5cn97helu1gqgsr2fjoqfrs4n1kj2jkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28926293784-um08b4jndrqkrvnlide94f2aesof31s4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vortex.meetx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28926293784:android:b7a826d2ba7d672205d06d",
+        "android_client_info": {
+          "package_name": "com.vortex.meetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28926293784-btme65fs5cljptmdhte69tdhvhkf8u0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vortex.meetx",
+            "certificate_hash": "dbc5ada68ac226c576317136c48564b909ba3607"
+          }
+        },
+        {
+          "client_id": "28926293784-5cn97helu1gqgsr2fjoqfrs4n1kj2jkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbGO268I7fmImvwunVZXJSZq8XMlJK2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28926293784-5cn97helu1gqgsr2fjoqfrs4n1kj2jkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28926293784-um08b4jndrqkrvnlide94f2aesof31s4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vortex.meetx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
